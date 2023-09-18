@@ -1,5 +1,11 @@
 # java-ile-aile-agaci-olusturma
 excel dosyasından alınan verilere göre aile ağacı oluşturma
+
+Projeye ait detaylı bilgiye aşağıdaki rapordan ulaşabilirsiniz
+
+[Rapor.pdf](https://github.com/NurSedaNur/java-ile-aile-agaci-olusturma/files/12652469/Rapor.pdf)
+
+
 1.PROJE HAKKINDA
 Bu projenin amacı, verilecek olan
 excel dosyalarında bulunan kişi
